@@ -11,3 +11,6 @@ E-mail: <code>Gabrielbercelline@gmail.com</code>
 
    📓 &nbsp; Pós-Graduando em desenvolvimento de aplicações para web e dispositivos móveis - UniAlfa (05/2021 - 12/2022). <br />
    📓 &nbsp; Graduado em Sistemas de Informação - Unipar (2015 - 2018). <br />
+
+## 📽️ Projeto Pessoais
+     Construir uma casa na árvore (em andamento)
