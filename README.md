@@ -14,3 +14,12 @@ E-mail: <code>Gabrielbercelline@gmail.com</code>
 
 ## 📽️ Projeto Pessoais
      Construir uma casa na árvore (em andamento)
+
+## Redes sociais
+
+[![Linkedin](https://img.shields.io/badge/Gabriel_Bercelline%20-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rafaiel-bercelline-3a49b3154/)
+
+
+
+## Informações adicionais
+    💥🕳️🕳️💥🕳️🕳️💥
