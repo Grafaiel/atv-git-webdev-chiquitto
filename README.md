@@ -4,11 +4,11 @@
 E-mail: <code>Gabrielbercelline@gmail.com</code>
 <h3>Umuarama-PR</h3>
 <br>
-<h2>👨‍🎓 Formação acadêmica </h2>
 
-    📓 Pós-Graduando em desenvolvimento de aplicações para web e dispositivos móveis - UniAlfa (05/2021 - 12/2022).
-    📓 Graduado em Sistemas de Informação - Unipar (2015 - 2018).
+<h3>📚  Formação acadêmica</h3>
 
+   📓 &nbsp; Pós-Graduando em desenvolvimento de aplicações para web e dispositivos móveis - UniAlfa (05/2021 - 12/2022). <br />
+   📓 &nbsp; Graduado em Sistemas de Informação - Unipar (2015 - 2018). <br />
 <br>
 
 ## 👨‍🏭 Experiência Profissional 
@@ -37,3 +37,15 @@ E-mail: <code>Gabrielbercelline@gmail.com</code>
 
 ## Participação em Eventos
     Brinfu - 22/08 a 24/08 de 2018 - Participante
+<br>
+## 📽️ Projeto Pessoais
+     Construir uma casa na árvore (em andamento)
+
+## Redes sociais
+
+[![Linkedin](https://img.shields.io/badge/Gabriel_Bercelline%20-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-rafaiel-bercelline-3a49b3154/)
+
+
+
+## Informações adicionais
+    💥🕳️🕳️💥🕳️🕳️💥
