@@ -38,6 +38,7 @@ E-mail: <code>Gabrielbercelline@gmail.com</code>
 ## Participação em Eventos
     Brinfu - 22/08 a 24/08 de 2018 - Participante
 <br>
+
 ## 📽️ Projeto Pessoais
      Construir uma casa na árvore (em andamento)
 
